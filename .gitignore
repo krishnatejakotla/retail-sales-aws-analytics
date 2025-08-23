@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# AWS creds
+*.csv
+*.key
+*.pem
+.aws/
+
+# Power BI files 
+*.pbix
+*.pbit
+
+# Logs / temp
+*.log
+*.tmp
+.DS_Store
+
+# IDE configs
+.vscode/
+.idea/
